@@ -1,16 +1,9 @@
-# Hello, TMLSS!
-by David Szepesvari
+# Hello, NASSMA!
+adapted from TMLSS 2018 lab by David Szepesvari
 
 _Designed for education purposes. Please do not distribute without permission_. 
 
-**Questions/Correspondence**: 2018tmlss@gmail.com.
-
-This colaboratory (colab) will help you get prepared for the rest of the practical sessions at TMLSS:
-
-* ConvNets and Computer Vision
-* RNNs and NLP
-* VAEs and GANs
-* Reinforcement Learning
+This colaboratory (colab) will help you get prepared for the rest of the practical sessions at NASSMA.
 
 Here you will get familiar with the environment and tools used in the rest of the practical sessions. **We strongly encourage you to go through these tutorials before the school**. There are small exercises throughout the sections to help you internalize the topics covered and to check your understanding. Finally, there is also a comprehensive exercise where you use all these tools to train an mnist digit classifier. **The other lab sessions will assume you can do this**.
 
