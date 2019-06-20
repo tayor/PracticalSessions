@@ -1,4 +1,4 @@
-# TMLSS2018: ConvNets and Computer Vision Tutorial
+# ConvNets and Computer Vision Tutorial
 by Viorica Patraucean
 
 _Designed for education purposes. Please do not distribute without permission_.
