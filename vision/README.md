@@ -3,13 +3,13 @@
 
 ## Focus of the tutorial: Study on the efficiency and robustness of convolutional neural networks for image classification
 
-#### Part I (baseline_start.ipynb): Training a baseline convnet classifier
+#### Part I (baseline.ipynb): Training a baseline convnet classifier
 * build a simple classifier given a specific architecture structure
 * get dataset, apply data augmentation (cropping, flipping)
 * train classifier
 * check number of parameters
 
-#### Part II (visualisation_start.ipynb): Visualise saliency maps (e.g. [paper](https://arxiv.org/pdf/1312.6034v2.pdf))
+#### Part II (visualisation.ipynb): Visualise saliency maps (e.g. [paper](https://arxiv.org/pdf/1312.6034v2.pdf))
 * import an already trained model
 * visualise the gradients of class probabilities w.r.t inputs to obtain saliency maps
 * visualise inputs that maximize class probabilities
