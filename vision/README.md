@@ -1,7 +1,5 @@
-# ConvNets and Computer Vision Tutorial
-by Viorica Patraucean, with some changes for NASSMA.
-
-_Designed for education purposes. Please do not distribute without permission_.
+# NASSMA 2019: ConvNets and Computer Vision Tutorial
+*Adapted from a tutorial by Viorica Patraucean.*
 
 ## Focus of the tutorial: Study on the efficiency and robustness of convolutional neural networks for image classification
 
